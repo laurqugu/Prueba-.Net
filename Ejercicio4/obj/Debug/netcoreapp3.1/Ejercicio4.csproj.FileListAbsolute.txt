@@ -1,0 +1,13 @@
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.exe
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.deps.json
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.json
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.dev.json
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.dll
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.pdb
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csprojAssemblyReference.cache
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfo.cs
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.dll
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.pdb
+C:\Users\LauraJuliana\Documents\Prueba\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.genruntimeconfig.cache

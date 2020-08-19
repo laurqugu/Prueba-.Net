@@ -1,0 +1,15 @@
+public void metodoA(int[],int pos)
+{
+int sum=0;
+while (i =pos){
+sum=sum+vec[1];
+}
+return sum;
+}
+
+Errores:
+- El método void no retorna
+- El vector no está definido
+- Se está enviando el parámetro "pos" que no está inicializado ni definido.
+- La expresión while (i = pos) debe ser while (i == pos).
+- El bucle es infinito debido a que no hay una condición para que termine o salga del ciclo
